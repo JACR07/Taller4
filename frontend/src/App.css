@@ -1,0 +1,65 @@
+.taller-container {
+  padding: 40px 20px 80px;
+  min-height: 100vh;
+  background: #f7f7f7;
+}
+
+.main-title {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #111827;
+}
+
+.status-section {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+  padding: 24px 28px;
+  margin-bottom: 20px;
+}
+
+.status-title {
+  margin-bottom: 12px;
+  color: #1f2937;
+  font-weight: 700;
+}
+
+.status-message {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #374151;
+}
+
+.api-alert {
+  margin-bottom: 24px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.info-card {
+  border: 1px solid #d1d5db;
+  border-radius: 14px;
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
+}
+
+.info-card .card-title {
+  margin-bottom: 20px;
+  color: #111827;
+  font-weight: 700;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.text-center {
+  text-align: center;
+}
