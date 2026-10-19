@@ -41,7 +41,7 @@ function App() {
     <Container className="taller-container">
       <Row className="justify-content-center">
         <Col md={10}>
-          <h1 className="main-title">TallerIV</h1>
+          <h1 className="main-title">tallerIV</h1>
 
           <div className="status-section">
             <h4 className="status-title">Estado de la API</h4>
